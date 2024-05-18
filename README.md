@@ -10,6 +10,6 @@ Pekala bu veri setindeki verilerin grafikleri nasıl olacaktı?
 Görselleştirme yoluna giderek matematik ders notu yüzdelerini, etnik köken durumlarını, ebeveyn eğitim düzeylerini, okuma-yazma testlerini vb verileri grafiklere döktüm.
 Daha sonra bu verilerin durumunu grafik halinde görmüş olduk.
 Ve nihayet aralarındaki korelasyonu da en son tabloda inceledik.
-Burada veri setinden kaynaklı olarak çeşitli verileriin incelenme durumu tablolara dahil olamadı. Bu sorun üzerinde uğraşmaya devam ediyorum.
+Burada veri setinden kaynaklı olarak çeşitli verilerin incelenme durumu tablolara dahil olamadı. Bu sorun üzerinde uğraşmaya devam ediyorum.
 Fakat görüldüğü üzere gerekli sayısal verilerin ve tanımların sağladığı verileri inceleyebildik.
 Sonuç olarak öğrencilerin matematik derslerini, sınav sonuçlarını ve buna ettki eden etkenlerin ne kadar etki ettiğini görmüş olduk.
