@@ -12,4 +12,4 @@ Daha sonra bu verilerin durumunu grafik halinde görmüş olduk.
 Ve nihayet aralarındaki korelasyonu da en son tabloda inceledik.
 Burada veri setinden kaynaklı olarak çeşitli verilerin incelenme durumu tablolara dahil olamadı. Bu sorun üzerinde uğraşmaya devam ediyorum.
 Fakat görüldüğü üzere gerekli sayısal verilerin ve tanımların sağladığı verileri inceleyebildik.
-Sonuç olarak öğrencilerin matematik derslerini, sınav sonuçlarını ve buna ettki eden etkenlerin ne kadar etki ettiğini görmüş olduk.
+Sonuç olarak öğrencilerin matematik derslerini, sınav sonuçlarını ve buna etki eden etkenlerin ne kadar etki ettiğini görmüş olduk.
